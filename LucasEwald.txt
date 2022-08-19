@@ -1,0 +1,3 @@
+Hi, my name is Lucas.
+I'm a programmer and this repo is the result of a git tutorial I am doing.
+I hope everything works correctly.
